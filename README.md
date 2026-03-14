@@ -1,14 +1,12 @@
-# STMS-StudentTaskManager
-Student Task Manager System — UML &amp; requirements (2025).
-# Student Task Manager System (STMS) — Team Project 2025
+ STMS-StudentTaskManager
+Student Task Manager System — UML &; requirements (2025).
+ Student Task Manager System (STMS) — Team Project 2025
 
-## Project Files
+Project Files
 - [UML & Requirements PDF](./StudentTaskManager_UML_Team.pdf)
-- [Presentation (PPTX)](./YourPresentationFile.pptx)
+- [Presentation (pdf)]([./YourPresentationFile.pptx](https://drive.google.com/file/d/1feQM7KkPzNCAmEHGpHNUcg6P3FF0EtLc/view?usp=sharing))
 
-## Short Description
+Short Description
 A system designed to help students manage academic tasks such as assignments, exams, reminders, and study groups.  
 The project includes functional requirements, non-functional requirements, and full UML diagrams.
 
-## How to View the Files
-- Open any file inside the repository and click **Download** or **Raw** to view or save it.
