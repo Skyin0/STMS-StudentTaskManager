@@ -1,5 +1,5 @@
 # STMS-StudentTaskManager
-Student Task Manager System — UML &amp; requirements (Team project, 2025).
+Student Task Manager System — UML &amp; requirements (2025).
 # Student Task Manager System (STMS) — Team Project 2025
 
 ## Project Files
